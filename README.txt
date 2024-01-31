@@ -1,3 +1,32 @@
+This website is a brief insight to my knowledge and skills I have developed as I transition into my desired role as a security analyst. Enjoy!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Miniport by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
